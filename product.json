@@ -6,12 +6,14 @@
   "price": "$19",
   "features": [],
   "tech_stack": "Vercel + Node.js",
-  "status": "building",
-  "vercel_url": null,
-  "github_url": null,
-  "lemonsqueezy_checkout_url": null,
+  "status": "ready_for_payment",
+  "vercel_url": "https://text-case-converter.vercel.app",
+  "github_url": "https://github.com/universe7creator/text-case-converter",
+  "lemonsqueezy_checkout_url": "https://profitbridge.lemonsqueezy.com/checkout/buy/72ed8216-25bf-444f-be92-2b06cac8944f",
   "lemonsqueezy_product_id": null,
-  "webhook_url": null,
+  "webhook_url": "https://text-case-converter.vercel.app/api/webhook",
   "created_cycle": null,
-  "deployed_cycle": null
+  "deployed_cycle": null,
+  "deployment_url": "https://text-case-converter-9gpdfie6l-madnessqws-projects.vercel.app",
+  "checkout_url": "https://profitbridge.lemonsqueezy.com/checkout/buy/72ed8216-25bf-444f-be92-2b06cac8944f"
 }
